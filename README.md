@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://github.com/Nardann/nardann/images/profile"/>
+  <img height="150" src="./images/profile.png"/>
 </div>
 
 ###
